@@ -109,9 +109,6 @@ If you use this repository or find the framework helpful for your research, plea
 
 2. **Varadi, M.**, et al. (2024). *AlphaFold Protein Structure Database in 2024: providing structure coverage for over 214 million protein sequences*. *Nucleic Acids Research*.
 
-3. **Gligorijević, V.**, Renfrew, P. D., Kosciolek, T., Leman, K., Berenberg, D., Vatanen, T., et al. (2021). *Structure-based protein function prediction using graph convolutional networks*. *Nature Communications*, 12, 3168. [https://doi.org/10.1038/s41467-021-23303-9](https://doi.org/10.1038/s41467-021-23303-9)
-
-4. **Jumper, J.**, Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., et al. (2021). *Highly accurate protein structure prediction with AlphaFold*. *Nature*, 596(7873), 583–589. [https://www.nature.com/articles/s41586-021-03819-2](https://www.nature.com/articles/s41586-021-03819-2)
 
 ## 📝 License
 
