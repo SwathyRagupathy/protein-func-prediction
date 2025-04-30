@@ -2,7 +2,8 @@
 
 **Author**: Swathy Ragupathy  
 **Affiliation**: Rochester Institute of Technology (RIT)  
-**Email**: swathyragupathy@gmail.com 
+**Email**: swathyragupathy@gmail.com
+**LinkedIn**: https://www.linkedin.com/in/swathyragupathy/
 
 
 **Date**: April 2025  
